@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "sdkVersion": "20.0.0",
+    "loading": {
+      "backgroundColor": "#1b2123",
+      "hideExponentText": true
+    }
+  }
+}

@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Máster en Diseño de interfaz y Front-end con HTML5, CSS3 y jQuery",
+    "image": "http://www.fictizia.com/assets/imgs/cursos/master-ui-html5-jquery.png",
+    "hero": "http://www.fictizia.com/assets/styles/styleImgs/wideBox/wideImg_diseno_de_interfaz_y_frontend_html5_css3_jquery.jpg",
+    "desc": "Con este máster aprenderás a diseñar y desarrollar con éxito un proyecto web basado en estándares W3C con las tecnologías HTML5 y CSS3, implementando, además, mejoras en la capa de interactividad mediante jQuery, la librería más utilizada de JavaScript.",
+    "teacherID": 1,
+    "duration": 150
+  },
+  {
+    "name": "Diseño de interfaz en proyectos Web, Apps y Smart TV",
+    "image": "http://www.fictizia.com/assets/imgs/cursos/curso-diseno-ui-interfaz.png",
+    "hero": "http://www.fictizia.com/assets/styles/styleImgs/wideBox/wideimg-diseño-interfaz.jpg",
+    "desc": "En el Curso de Diseño de interfaz para proyectos Web, Apps y Smart TV aprenderás cómo diseñar el sistema visual y funcional de interacción entre sitios web, aplicaciones para smartphones, tablets y smart TV y sus usuarios en base a las necesidades y objetivos específicos de cada proyecto.",
+    "teacherID": 1,
+    "duration": 45
+  },
+  {
+    "name": "Máster en Programación de aplicaciones con JavaScript y Node.js",
+    "image": "http://www.fictizia.com/assets/imgs/cursos/default_web.png",
+    "hero": "http://www.fictizia.com/assets/styles/styleImgs/wideBox/wideImg-MasterJS_v17.jpg",
+    "desc": "Aprende con este Máster en Programación de aplicaciones con JavaScript y Node.js todo lo necesario para desarrollar cualquier tipo de proyecto interactivo utilizando el lenguaje de programación más utilizado en el mundo del desarrollo interactivo.",
+    "teacherID": 14,
+    "duration": 300
+  },
+  {
+    "name": "Curso de UX y Diseño de interacción para productos digitales",
+    "image": "http://www.fictizia.com/assets/imgs/cursos/default_web.png",
+    "hero": "http://www.fictizia.com/assets/styles/styleImgs/wideBox/wideImg-UX.jpg",
+    "desc": "El curso de UX y Diseño de Interacción para productos digitales está orientado a profesionales con una mínima experiencia en el ámbito del desarrollo de productos digitales y quieran mejorar sus capacidades en las disciplinas descritas en el curso.",
+    "teacherID": 18,
+    "duration": 45
+  },
+  {
+    "name": "Curso de JavaScript para desarrolladores web",
+    "image": "http://www.fictizia.com/assets/imgs/cursos/curso-javascript.png",
+    "hero": "http://www.fictizia.com/assets/styles/styleImgs/wideBox/widebox_js.png",
+    "desc": "El Curso de JavaScript para desarrolladores web está pensado para que sus alumnos descubran el desarrollo con JavaScript nativo y adquieran las capacidades necesarias para crear profesionalmente sitios web dinámicos a medida de las necesidades de cada proyecto.",
+    "teacherID": 14,
+    "duration": 45
+  },
+  {
+    "name": "Curso de JavaScript Avanzado para desarrolladores Front-end",
+    "image": "http://www.fictizia.com/assets/imgs/cursos/curso-js-avanzado.jpg",
+    "hero": "http://www.fictizia.com/assets/styles/styleImgs/wideBox/widebox_js_avanzado.png",
+    "desc": "El Curso de JavaScript Avanzado para desarrolladores web está pensado para que sus alumnos amplíen sus habilidades con el desarrollo con JavaScript nativo y adquieran las capacidades necesarias para crear profesionalmente sitios web dinámicos a medida de las necesidades de cada proyecto.",
+    "teacherID": 14,
+    "duration": 72
+  },
+  {
+    "name": "Curso de Node.js para desarrolladores Front-end",
+    "image": "http://www.fictizia.com/assets/imgs/cursos/nodejs.png",
+    "hero": "http://www.fictizia.com/assets/styles/styleImgs/wideBox/widebox_nodejs.png",
+    "desc": "Node.js es un entorno de programación en JavaScript para Back-end creado a partir del motor V8 de Google Chrome. Node.js permite crear servidores HTTP muy rápidamente y gestionar peticiones con mucha mayor agilidad que entornos tradicionales como PHP y MySQL.",
+    "teacherID": 14,
+    "duration": 24
+  },
+  {
+    "name": "Curso de AngularJS (v1.x)",
+    "image": "http://www.fictizia.com/assets/imgs/cursos/curso-angularjs.png",
+    "hero": "http://www.fictizia.com/assets/styles/styleImgs/wideBox/widebox_angularJS.png",
+    "desc": "AngularJS te permite extender el lenguaje HTML para añadir vistas dinámicas a tus aplicaciones web de forma sencilla y rápida de programar.",
+    "teacherID": 13,
+    "duration": 30
+  },
+  {
+    "name": "Curso de maquetación web con HTML5 y CSS3",
+    "image": "http://www.fictizia.com/assets/imgs/cursos/diseno_y_desarrollo_frontend_con_html5_css3_y_jquery.png",
+    "hero": "http://www.fictizia.com/assets/styles/styleImgs/wideBox/wideImg_desarrollo_frontend_con_html5_y_css3.jpg",
+    "desc": "Con este Curso especializado en maquetación web con HTML5 y CSS3 aprenderás desde cero a desarrollar con éxito cualquier proyecto web basado en tecnologías HTML5, incluyendo aquellos que requieren ser \"responsive\" para adaptarse eficazmente a cada dispositivo.",
+    "teacherID": 1,
+    "duration": 60
+  },
+  {
+    "name": "Curso de jQuery para maquetadores web",
+    "image": "http://www.fictizia.com/assets/imgs/cursos/programacion_con_jquery_para_maquetadores_web.png",
+    "hero": "http://www.fictizia.com/assets/styles/styleImgs/wideBox/wideImg_programacion_con_jquery_para_maquetadores_web.jpg",
+    "desc": "Con este curso aprenderás a dominar jQuery, la librería open-source de Javascript, con la que el proceso de agregar funcionalidades mejoradas y comportamientos avanzados a los sitios web se simplifica enormemente.",
+    "teacherID": 1,
+    "duration": 36
+  },
+  {
+    "name": "Curso de Programación PHP",
+    "image": "http://www.fictizia.com/assets/imgs/cursos/programacion_web_serverside_con_php__mysql.png",
+    "hero": "http://www.fictizia.com/assets/styles/styleImgs/wideBox/wideImg_programacion_php.jpg",
+    "desc": "Los sistemas de gestión de contenidos son aplicaciones online que permiten administrar contenidos (principalmente de sitios web) a través de diferentes usuarios con diferentes permisos.",
+    "teacherID": 20,
+    "duration": 45
+  },
+  {
+    "name": "Curso de PHP Avanzado con Laravel",
+    "image": "http://www.fictizia.com/assets/imgs/cursos/curso-laravel-php.png",
+    "hero": "http://www.fictizia.com/assets/styles/styleImgs/wideBox/wideImg-PHP-Laravel.jpg",
+    "desc": "Laravel es un framework de PHP que se apoya en los avances de las últimas versiones de PHP y que ayuda enormemente a crear aplicaciones ágilmente usando una sintaxis simple.",
+    "teacherID": 20,
+    "duration": 36
+  },
+  {
+    "name": "Curso de React + Redux",
+    "image": "http://www.fictizia.com/assets/imgs/cursos/circ-react-js-redux.png",
+    "hero": "http://www.fictizia.com/assets/styles/styleImgs/wideBox/wideImg-react-js-redux.jpg",
+    "desc": "React (también llamado ReactJS o React.js) es una librería de JavaScript que facilita enormemente el desarrollo eficiente de interfaces de usuario fácilmente mantenibles.",
+    "teacherID": null,
+    "duration": 30
+  },
+  {
+    "name": "Curso de Angular 2 (v4.x)",
+    "image": "http://www.fictizia.com/assets/imgs/cursos/circ-angular-2-js.png",
+    "hero": "http://www.fictizia.com/assets/styles/styleImgs/wideBox/wideImg-angular2.jpg",
+    "desc": "Angular 2 es la nueva versión del popular framework MV* de Google para construir aplicaciones complejas en el navegador.",
+    "teacherID": 23,
+    "duration": 42
+  },
+  {
+    "name": "Curso de Polymer",
+    "image": "http://www.fictizia.com/assets/imgs/cursos/curso-polymer.png",
+    "hero": "http://www.fictizia.com/assets/styles/styleImgs/wideBox/wideImg_polymer.jpg",
+    "desc": "A día de hoy, nos encontramos ante la evolución del desarrollo Frontend y hace ya unos años, empezó a sonar con fuerzas el desarrollo web basado en Web Components; un conjunto de estándares que nos permite crear etiquetas HTML personalizadas para fomentar la reutilización y modularización de la web.",
+    "teacherID": 24,
+    "duration": 42
+  },
+  {
+    "name": "Curso de Python",
+    "image": "http://www.fictizia.com/assets/imgs/cursos/curso-python.png",
+    "hero": "http://www.fictizia.com/assets/styles/styleImgs/wideBox/wideImg_python.jpg",
+    "desc": "El Curso de Python está pensado para que sus alumnos descubran el maravilloso mundo del desarrollo con Python y adquieran las capacidades necesarias para crear profesionalmente scripts a medida de las necesidades de cada proyecto.",
+    "teacherID": 14,
+    "duration": 45
+  }
+]
